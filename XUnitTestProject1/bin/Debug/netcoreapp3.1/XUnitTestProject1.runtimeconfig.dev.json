@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\Users\\nelio\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\Users\\nelio\\.nuget\\packages"
+    ]
+  }
+}

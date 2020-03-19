@@ -1,0 +1,8 @@
+D:\Users\nelio\source\repos\TestSampleProject\Services\bin\Debug\netstandard2.0\Services.deps.json
+D:\Users\nelio\source\repos\TestSampleProject\Services\bin\Debug\netstandard2.0\Services.dll
+D:\Users\nelio\source\repos\TestSampleProject\Services\bin\Debug\netstandard2.0\Services.pdb
+D:\Users\nelio\source\repos\TestSampleProject\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+D:\Users\nelio\source\repos\TestSampleProject\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\Users\nelio\source\repos\TestSampleProject\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\Users\nelio\source\repos\TestSampleProject\Services\obj\Debug\netstandard2.0\Services.dll
+D:\Users\nelio\source\repos\TestSampleProject\Services\obj\Debug\netstandard2.0\Services.pdb
